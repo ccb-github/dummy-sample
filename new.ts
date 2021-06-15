@@ -1,4 +1,4 @@
-
+//Print a random message
 
 function printAll(strs: string | string[] | null) {
     if (typeof strs === "object") {
