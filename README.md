@@ -1,3 +1,6 @@
+Just a sample project for owner
+
+
 This component was created with [BuilderX](https://builderx.io/).
 
 ## BuilderX uses third party libraries for some of the react-native components such as
